@@ -1,5 +1,6 @@
 # AQC-Repository
-//Lang-EN
+![alt_text](https://media.tenor.com/images/e118e74c0a035cf59fb0a44fa98bf3bf/tenor.gif "XD") 
+## //Lang-EN
 Wilkommen!!!
 Thankyou for passing by.. XD
  
@@ -9,10 +10,10 @@ AQC's Repository is a web-based AQC's catalogue that developed in 2020 and offic
 
 Made with <3 in AQC
 
-//Lang-ID
+## //Lang-ID
 
 AQC's Repository adalah sebuah katalog buku-buku AQC berbasis website yang mulai dikembangkan pada tahun 2020 dan dirilis secara official pada tanggal Null?. Catalog ini tidak lain ditujukan untuk memudahkan para santri, khususnya santri PESMA Al-Hikam Depok didalam mencari bahan referensi yang diperlukan atau sekadar memperluas wawasan dan warga Al-Hikam pada umumnya.
 
 //"Bukan bakti bila tidak melakukan lebih" ~عمر ﺁبن حفيظ
 
-Dibuat dengan <3 di AQC
+### Dibuat dengan <3 di AQC
